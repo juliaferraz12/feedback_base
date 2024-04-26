@@ -59,6 +59,11 @@ body {
     margin-bottom: 50px;
 }
 
+.botoes{
+    display: flex;
+    justify-content: space-around;
+}
+
 
 
 .botoes button {
